@@ -1,3 +1,1 @@
-# Housing_Prices
-
-Predici New York Housing Prices with Machine Learning models
+Housing Price and Titanic Survival Prediction Projects | Regression and Classification (Python) 
